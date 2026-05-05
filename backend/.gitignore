@@ -1,0 +1,15 @@
+#虚拟环境
+venv/
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+#环境变量
+.env
+*.env
+
+#日志、缓存
+*.log
+.DS_Store
+*.cache
